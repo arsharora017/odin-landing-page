@@ -6,7 +6,6 @@ body {
   justify-content: center;
   font-family: Roboto, sans-serif;
   flex-direction: column;
-  /* width: 100%; */
 }
 
 .header {
@@ -215,4 +214,20 @@ button {
 
 .part4-btn {
   border-color: white;
+}
+
+/* Part 5 - footer */
+
+.part5-footer {
+  background-color: #1f2937;
+  width: 1300px;
+  height: 115px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.part5-footer-p {
+  color: #e5e7eb;
+  font-size: 18px;
 }
