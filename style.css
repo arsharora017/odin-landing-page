@@ -95,6 +95,11 @@ p {
   justify-content: center;
 }
 
+.header-image img {
+  width: 500px;
+  height: auto;
+}
+
 button {
   width: 150px;
   margin: 0;
@@ -140,13 +145,18 @@ button {
   max-width: 150px;
 }
 
-.part2-box {
+.part2-image-box {
   width: 150px;
   height: 150px;
   border-radius: 10px;
   border: 3px solid #3882f6;
   text-align: center;
   margin-bottom: 10px;
+}
+
+.part2-image-box img {
+  width: 150px;
+  height: 150px;
 }
 
 /* Part 3 */
